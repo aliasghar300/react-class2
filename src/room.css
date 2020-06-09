@@ -1,0 +1,16 @@
+.room {
+    height: 100vw;
+}
+
+.on {
+    background-color: whitesmoke;
+    color:black;
+}
+.off {
+    background-color: black;
+    color: black;
+}
+
+.tempbtn {
+    border: black;
+}
